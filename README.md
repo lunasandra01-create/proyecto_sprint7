@@ -44,4 +44,4 @@ Este proyecto ha sido desarrollado utilizando las herramientas más modernas del
 ---
 ✨ *Creado con pasión por el análisis de datos. ¡Conecta conmigo y hablemos de código!*
 ---
-*Puedes interactuar con el proyecto desplegado en:*[Data Analytics APP](https://proyecto-sprint7-x27g.onrender.com)
+*Puedes interactuar con el proyecto desplegado en:*[Data Analytics APP](https://proyecto-sprint7-81le.onrender.com)
