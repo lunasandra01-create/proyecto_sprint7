@@ -18,7 +18,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # Ruta especificada
-    path = "C:/Users/lunas/Tripleten/proyecto_sprint7/proyecto_sprint7/data/vehicles_us.csv"
+    path = "data/vehicles_us.csv"
     df = pd.read_csv(path)
     return df
 
