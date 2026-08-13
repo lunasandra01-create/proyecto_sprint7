@@ -18,8 +18,8 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # Ruta especificada
-    path = "data/vehicles_us.csv"
-    df = pd.read_csv(path)
+
+    df = pd.read_csv("./data/vehicles_us.csv")
     return df
 
 df = load_data()
